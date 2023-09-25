@@ -1,2 +1,3 @@
 # StemAPI
-Unlock the Stem websites with ease.
+
+### StemAPI is a Tampermonkey extension allowing you to 
