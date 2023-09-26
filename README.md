@@ -12,4 +12,4 @@ Save that extension and enjoy your new permissions! This extension will work on 
 Note that this may not be the most effecient way to upload a tampermonkey extension. If there is a better way I am unaware of, feel free to make a pull request to this README.md file.
 
 ### Why can't I login?
-Just to note, developer / employee account will be required on these sites. To my knowledge, new accounts do not work on the “staging-stemplayer” version this runs on. I will keep my eye on this and update it once I find a fix.
+Just to note, a developer / employee account will be required on these sites. To my knowledge, new accounts do not work on the “staging-stemplayer” version this runs on. I will keep my eye on this and update it once I find a fix.
