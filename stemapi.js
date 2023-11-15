@@ -4,9 +4,9 @@
 // @namespace    https://www.stem.tech/
 // @namespace    https://stemplayer.com/
 // @namespace    https://www.stemplayer.com/
-// @version      2
+// @version      3
 // @description  Reroute production API to developer API to allow access to a multitude of functionalities.
-// @author       Untitled-360 & botmert
+// @author       arctic360 & botmert
 // @match        https://stemplatform.netlify.app/*
 // @match        https://www.stemplayer.com/*
 // @match        https://www.stem.tech/*
